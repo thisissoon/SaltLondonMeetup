@@ -3,6 +3,8 @@
 To run these states all you need is Docker and if you are on OSX or windows you
 will also need Boot2Docker. Then follow the build instructions.
 
+Slides from the talk can be found here on [Slide Share](http://www.slideshare.net/SOON_/salt-docker-1)
+
 ## Build the Salt Docker Image
 
 ```
